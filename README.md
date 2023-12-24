@@ -1,5 +1,6 @@
-### Hi there 👋
-
+- 👋 Hi, I’m @pwgit-create 
+- 👀 I’m interested in: java, it-security, quantum computing
+- 📫 How to reach me: @Discord: snoweene @LinkedIn: peter-westin
 <!--
 **pwgit-create/pwgit-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
