@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pwgit-create 
-- 👀 I’m interested in: Java, and quantum computing
+ 👋 Hi, I’m @pwgit-create 
+
 <!--
 **pwgit-create/pwgit-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
